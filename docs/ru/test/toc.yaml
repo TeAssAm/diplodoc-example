@@ -6,6 +6,6 @@ items:
   - name: Оглавление
     href: page.md
   - name: BPM
-  include:
-    path: BPM/toc.yaml
-    mode: link
+     include:
+      path: BPM/toc.yaml
+      mode: link

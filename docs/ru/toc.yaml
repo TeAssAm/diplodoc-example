@@ -1,11 +1,11 @@
 title: Шаблон проекта документации
 href: index.yaml
 items: 
-  - name: Подраздел
+  - name: BPM
     include:
-      path: sub-section/toc.yaml
+      path: BPM/toc.yaml
       mode: link
-  - name: Моя вставка
+  - name: Стихи
     include:
       path: test/toc.yaml
       mode: link

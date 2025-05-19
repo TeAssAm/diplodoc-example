@@ -11,3 +11,7 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Моя вставка
+    include:
+      path: test/toc.yaml
+      mode: link

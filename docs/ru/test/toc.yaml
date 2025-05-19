@@ -5,7 +5,3 @@ items:
     href: content.md
   - name: Оглавление
     href: page.md
-  - name: BPM
-     include:
-      path: BPM/toc.yaml
-      mode: link

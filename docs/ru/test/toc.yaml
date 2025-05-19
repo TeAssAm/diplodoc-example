@@ -1,7 +1,11 @@
-title: Стихотворения
+title: Пользовательская документация
 href: index.yaml
 items:
   - name: Стих1
     href: content.md
   - name: Оглавление
     href: page.md
+  - name: BPM
+  include:
+    path: BPM/toc.yaml
+    mode: link

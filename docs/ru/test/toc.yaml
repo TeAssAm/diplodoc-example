@@ -1,1 +1,7 @@
-
+title: Стихотворения
+href: index.yaml
+items:
+  - name: Стих1
+    href: content.md
+  - name: Оглавление
+    href: page.md

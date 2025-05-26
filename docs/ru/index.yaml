@@ -1,4 +1,6 @@
-title: Шаблон документации
+title: Изменение
 links:
   - title: BPM
+    href: BPM/
+  - title: Стихи
     href: sub-section/
